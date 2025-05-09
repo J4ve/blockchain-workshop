@@ -2,3 +2,5 @@
 2025 cspc may 9 mac lab
 
 api at `portal.cdp.coinbase.com`
+
+documentation base `docs.bases.org`
